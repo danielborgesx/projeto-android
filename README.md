@@ -34,8 +34,8 @@
         </dl>
         <br>
         <p>Quer ver como ficou? Acesse o <a href="https://danielborgesx.github.io/projeto-android/android.html">site</a> aqui!</p>
-        <p>Está no celular? Você pode abrir peo QR-Code:</p>
-        <img src="imagens/frame.png" alt="QR-Code do site">
+        <p>Está no celular? Você pode abrir pelo QR-Code:</p>
+        <img src="imagens/frame.png" alt="QR-Code do site" width = 50%>
         <p>Agradeço ao prof. Guanabara pelos ensinamentos. Espero que tenha utilizado todas as boas práticas e ensinamentos passados por ele.</p>
         <p>Sintam-se a vontade para me ajudar a melhorá-lo.</p>
         <br>
