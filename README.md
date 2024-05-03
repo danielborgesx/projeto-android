@@ -33,7 +33,7 @@
               <dd>Pseudo-classes e pseudo-elementos</dd>
         </dl>
         <br>
-        <p>Quer ver como ficou? Acesse o <a href="danielborgesx.github.io/projeto-android/android.html">site</a> aqui!</p>
+        <p>Quer ver como ficou? Acesse o <a href="https://danielborgesx.github.io/projeto-android/android.html">site</a> aqui!</p>
         <p>Agradeço ao prof. Guanabara pelos ensinamentos. Espero que tenha utilizado todas as boas práticas e ensinamentos passados por ele.</p>
         <p>Sintam-se a vontade para me ajudar a melhorá-lo.</p>
         <br>
